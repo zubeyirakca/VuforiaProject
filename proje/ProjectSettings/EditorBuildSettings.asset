@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main.unity
+    guid: b9d538b4f104e5940b65949ca4f71b8c
+  - enabled: 1
+    path: Assets/AtomModels.unity
+    guid: e709b53ad71cad648984fb2526894521
+  - enabled: 1
+    path: Assets/Bohr.unity
+    guid: dd203a30e71f85c4e8bd25215d4443f7
+  - enabled: 1
+    path: Assets/Dalton.unity
+    guid: 1d5956cae7990b746900ef6191ff8724
+  - enabled: 1
+    path: Assets/Rutherford.unity
+    guid: 973da43a4385e924a9d501c0492cf6e1
+  - enabled: 1
+    path: Assets/Thompson.unity
+    guid: 79b52970a93c5374aa3af6122eb1311c
+  m_configObjects: {}

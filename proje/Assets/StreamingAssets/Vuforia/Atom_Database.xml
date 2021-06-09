@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="JJ_Thomson" size="10.000000 11.185715" />
+    <ImageTarget name="tmp597527871606489088" size="10.000000 10.774194" />
+    <ImageTarget name="Bohr-Atom-Modeli" size="10.000000 10.019763" />
+    <ImageTarget name="rutherford" size="10.000000 7.507837" />
+  </Tracking>
+</QCARConfig>
